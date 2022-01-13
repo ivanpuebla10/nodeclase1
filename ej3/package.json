@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ivanpuebla10/nodeclase1/issues"
   },
-  "homepage": "https://github.com/ivanpuebla10/nodeclase1#readme"
+  "homepage": "https://github.com/ivanpuebla10/nodeclase1#readme",
+  "dependencies": {
+    "logplease": "^1.2.15"
+  }
 }
